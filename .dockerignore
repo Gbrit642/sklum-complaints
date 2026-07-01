@@ -1,0 +1,12 @@
+.venv
+.git
+.claude
+.google-agents-cli
+data/
+batch_service/
+scripts/
+tests/
+docs/
+deployment/
+*.md
+!README.md
